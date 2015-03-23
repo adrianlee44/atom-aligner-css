@@ -4,6 +4,6 @@ module.exports =
   config: provider.config
 
   activate: ->
-    console.log 'activate vertical-align-css'
+    console.log 'activate aligner-css'
 
   getProvider: -> provider

@@ -1,9 +1,9 @@
 {
-  "name": "vertical-align-css",
+  "name": "aligner-css",
   "main": "./lib/main",
   "version": "1.0.0",
-  "description": "CSS support for vertical-align",
-  "repository": "https://github.com/adrianlee44/vertical-align-css",
+  "description": "CSS support for aligner",
+  "repository": "https://github.com/adrianlee44/aligner-css",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
@@ -11,7 +11,7 @@
   "dependencies": {
   },
   "providedServices": {
-    "vertical-align.provider": {
+    "aligner.provider": {
       "versions": {
         "1.0.0": "getProvider"
       }

@@ -1,6 +1,6 @@
 module.exports =
   selector: ['.source.css', '.source.html']
-  id: 'vertical-align-css' # package name
+  id: 'aligner-css' # package name
   config:
     ':-alignment':
       title: 'Padding for :'
