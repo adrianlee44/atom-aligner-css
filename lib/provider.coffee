@@ -1,5 +1,5 @@
 module.exports =
-  selector: ['.source.css', '.source.html']
+  selector: ['.source.css', '.source.html', '.source.scss', '.source.sass']
   id: 'aligner-css' # package name
   config:
     ':-alignment':
