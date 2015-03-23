@@ -1,15 +1,14 @@
 {
   "name": "aligner-css",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CSS support for aligner",
   "repository": "https://github.com/adrianlee44/atom-aligner-css",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "aligner.provider": {
       "versions": {
