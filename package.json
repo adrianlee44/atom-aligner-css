@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "version": "1.0.0",
   "description": "CSS support for aligner",
-  "repository": "https://github.com/adrianlee44/aligner-css",
+  "repository": "https://github.com/adrianlee44/atom-aligner-css",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
