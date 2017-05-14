@@ -1,7 +1,7 @@
 {
   "name": "aligner-css",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CSS support for aligner",
   "keywords": [
     "aligner",
